@@ -1,6 +1,6 @@
 # Top OCR Libraries
 
-Showcasing a list of the most popular open source OCR (Optical Character Recognition) libraries, including speed and accuracy results against standardized files. 
+The most popular open source OCR (Optical Character Recognition) libraries, including speed and accuracy results against a standardized file. 
 
 ## Testing Methodology
 lorem ipsum
