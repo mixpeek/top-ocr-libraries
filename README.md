@@ -14,3 +14,4 @@ Each library links to its' corresponding python library to make it simple for yo
 | [Tesseract](https://github.com/madmaze/pytesseract) | 100% | 1 |
 | [OpenCV](https://github.com/opencv/opencv-python) | 100% | 1 |
 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | 100% | 1 |
+| [Haystack](https://haystack.deepset.ai/tutorials/preprocessing) | 100% | 1 |
